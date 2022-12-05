@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SmashTrash" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorMediumBlue</item>
+        <item name="colorPrimaryVariant">@color/colorDarkBlue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/colorLightBlue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorMediumBlue</item>
+        <item name="colorSecondaryVariant">@color/colorDarkBlue</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.SmashTrash.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorMediumBlue</item>
+        <item name="colorPrimaryVariant">@color/colorDarkBlue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/colorLightBlue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorMediumBlue</item>
+        <item name="colorSecondaryVariant">@color/colorDarkBlue</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="CustomToolbarStyle">
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:colorControlNormal">#FFFFFF</item>
+    </style>
+</resources>

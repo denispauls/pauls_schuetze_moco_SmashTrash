@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmashTrash</string>
+    <string name="edit_text_hint_title">Titel</string>
+    <string name="edit_text_hint_description">Beschreibung</string>
+    <string name="edit_text_hint_date">Datum</string>
+    <string name="edit_text_hint_location">Ort</string>
+    <string name="text_add_image">Foto hinzufügen</string>
+    <string name="btn_text_save">"Speichern "</string>
+</resources>
